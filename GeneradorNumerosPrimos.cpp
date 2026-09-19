@@ -1,11 +1,10 @@
-//Hacer un programa C++ que genere n numeros primos.
-//Comprbar generando: 
-//A) 10,000
-//B) 100,000
-//C) 1,000,000
-//D) 5,000,000
-//E) 10,000,000
-//Que determinar el tiempo de ejecucion de cada uno de los casos y mostrarlo en pantalla.
+/*
+PROGRAMA: Generador de Números Primos
+
+DESCRIPCIÓN:
+El programa genera una cantidad específica de números primos y mide el tiempo que tarda en hacerlo.
+
+*/
 
 #include <iostream>
 #include <chrono>

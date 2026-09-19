@@ -1,3 +1,24 @@
+/*
+
+PROGRAMA: Camisetas de Fútbol
+
+DESCRIPCIÓN:
+Encuentra pares de números dorsales donde:
+(dorsal1 + dorsal2)² = número formado por los dorsales juntos
+
+EJEMPLO:
+Dorsales 20 y 25:
+20 + 25 = 45
+45² = 2025
+Al poner juntos los dorsales: 2025
+¡Coinciden!
+
+RESTRICCIONES:
+- Dorsales van del 1 al 99
+- El resultado debe ser de 4 cifras (1000-9999)
+
+*/
+
 #include <iostream>
 using namespace std;
 

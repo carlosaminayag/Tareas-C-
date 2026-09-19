@@ -1,4 +1,10 @@
-//Hacer un programa en c++ que descomponga un entero dado en factores primos.
+/*
+PROGRAMA: Descomposición en Factores Primos
+
+DESCRIPCIÓN:
+El programa descompone un número entero dado en sus factores primos.
+
+*/
 
 #include <iostream>
 

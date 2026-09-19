@@ -1,15 +1,21 @@
-// En una fiesta hay 99 personas. A cada una de ellas se les ha dado un
-// numero entero comprendido entre 1 y 99 acompanado de unas instrucciones.
-// Las instrucciones dicen:
-//a. Si su numero es par, dividelo por 2.
-//b. Si su numero es impar, multiplicalo por 3 y sumale 1.
-//c. Repita las instrucciones anteriores con el numero que resulte hasta
-//que este sea igual a 4
+/*
 
-//Por tanto, cada invitado obtendra una cadena de numeros enteros que
-//terminara con el numero 4. Por ejemplo, el invitado con el numero 3 formara 
-//la siguiente cadena: 3 -> 10 -> 5 -> 16 -> 8 -> 4
-//Que invitado tendra la cadena mas larga?
+PROGRAMA: La Cadena Más Larga
+
+DESCRIPCIÓN:
+En una fiesta hay 99 personas, cada una con un número (1-99).
+Cada persona debe seguir estas reglas hasta obtener 4:
+
+a. Si el número es PAR: divídelo entre 2
+b. Si el número es IMPAR: multiplícalo por 3 y suma 1
+c. Repite hasta llegar a 4
+
+El programa encuentra quién genera la cadena más larga.
+
+EJEMPLO (número 3):
+3 → 10 → 5 → 16 → 8 → 4 (longitud: 6)
+
+*/
 
 #include <iostream>
 using namespace std;

@@ -1,3 +1,20 @@
+/*
+
+PROGRAMA: Cubos Narcisistas
+
+DESCRIPCIÓN:
+Un cubo narcisista es un número entero positivo que es exactamente igual a 
+la suma de sus dígitos elevados al cubo.
+
+El programa encuentra todos los cubos narcisistas (excluyendo el 1) buscando
+números donde: n = d1³ + d2³ + d3³ + ... (donde d son los dígitos de n)
+
+EJEMPLOS:
+  153 = 1³ + 5³ + 3³ = 1 + 125 + 27 = 153 ✓
+  370 = 3³ + 7³ + 0³ = 27 + 343 + 0 = 370 ✓
+
+*/
+
 #include <iostream>
 #include <cmath>
 using namespace std;

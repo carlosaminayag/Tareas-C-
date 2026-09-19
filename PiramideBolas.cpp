@@ -1,3 +1,23 @@
+/*
+
+PROGRAMA: La Pirámide de Bolas
+
+DESCRIPCIÓN:
+Con 10,000 bolas se forma una pirámide de base cuadrada, donde:
+- Cada capa n tiene n² bolas
+- Capa 1: 1² = 1 bola
+- Capa 2: 2² = 4 bolas
+- Capa 3: 3² = 9 bolas
+- ...y así sucesivamente
+
+El programa calcula:
+1. ¿Cuántas capas se pueden hacer?
+2. ¿Cuántas bolas sobran?
+
+FÓRMULA:
+Total de bolas en n capas = 1² + 2² + 3² + ... + n²
+
+*/
 #include <iostream>
 using namespace std;
 

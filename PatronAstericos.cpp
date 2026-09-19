@@ -1,9 +1,10 @@
-//Hacer un programa en C++ que genere el siguiente patron de asteriscos, imprimiendo un único asterisco a la vez, y utilizando ciclos for.
-//Ejemplo:
-//*
-//**
-//*
-//hasta 7
+/*
+PROGRAMA: Patrón de Asteriscos
+
+DESCRIPCIÓN:
+El programa imprime un patrón de asteriscos en forma de triángulo, donde cada fila contiene un número creciente de asteriscos, comenzando con 1 asterisco en la primera fila y aumentando hasta 7 asteriscos en la séptima fila.
+
+*/
 
 #include <iostream>
 

@@ -1,3 +1,11 @@
+/*
+PROGRAMA: Verificación de Números Primos
+
+DESCRIPCIÓN:
+El programa determina si un número entero ingresado por el usuario es primo o no.
+
+*/
+
 #include <iostream>
 using namespace std;
 

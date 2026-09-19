@@ -1,3 +1,11 @@
+/*
+PROGRAMA: Mayor, Menor y Moda
+
+DESCRIPCIÓN:
+El programa encuentra el mayor, el menor y la moda de un conjunto de 20 valores ingresados por el usuario.
+
+*/
+
 #include <iostream>
 using namespace std;
  

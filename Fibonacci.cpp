@@ -1,3 +1,11 @@
+/*
+PROGRAMA: Serie de Fibonacci
+
+DESCRIPCIÓN:
+El programa imprime los primeros n términos de la serie de Fibonacci.
+
+*/
+
 #include <iostream>
 using namespace std;
 

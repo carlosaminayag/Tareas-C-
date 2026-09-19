@@ -1,3 +1,11 @@
+/*
+PROGRAMA: Ecuación Cuadrática
+
+DESCRIPCIÓN:
+El programa resuelve una ecuación cuadrática de la forma ax² + bx + c = 0, mostrando las soluciones reales o complejas según el valor del discriminante.
+
+*/
+
 #include <iostream>
 #include <cmath>
 #include <string>
