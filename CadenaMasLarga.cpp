@@ -36,6 +36,6 @@ int main() {
             invitadoMax = invitado;
         }
     }
-
+    cout << "Camisetas con la cadena mas larga: " << maxLongitud << endl;
     cout << "El invitado con la cadena mas larga es el numero " << invitadoMax << " con una longitud de " << maxLongitud << endl;
 }
