@@ -17,6 +17,7 @@ int main () {
         final[n] = cadena[i];
         n++;
     }
-    cout << final << endl;
+    cadena = final;
+    cout << cadena << endl;
 
 }

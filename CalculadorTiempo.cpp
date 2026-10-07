@@ -1,4 +1,5 @@
 /*
+06/10/2026
 Hacer un programa C++ que determine el numero de meses y dias transcurridos
 desde el 1 de enero del año dado hasta la fecha que puso el usuario.
 */
