@@ -25,7 +25,7 @@
 
 bool esPerfecto(int valor) {
     int acumulado = 0;
-    for (int i = 1; i < valor; ++i) {
+    for (int i = 1; i <= valor / 2; ++i) {
         if (valor % i == 0) {
             acumulado += i;
         }
